@@ -1,7 +1,6 @@
 # BankManagementSystem
-# Bank Management System
 
-Overview
+# Overview
 
 The Bank Management System is a console-based, Java-written application simulating core banking operations. It follows one of the key OOP concepts, such as **Inheritance, Encapsulation, and Polymorphism**, through a practical multi-level class structure. The user can manage an account, execute transactions, and calculate interest using an intuitive text-based menu.
 Features
